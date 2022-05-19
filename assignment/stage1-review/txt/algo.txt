@@ -1,0 +1,8 @@
+Step 1 : Create 3 files 
+	 [o/p - x.java y.py z.js]
+Step 2 : Find the type of the file and print that file type 
+	 [o/p - java py js]
+Step 3 : Create a folder with the same file type name
+	 [o/p - java/ py/ js/]
+Step 4 : Cut that specific file and paste it in specific folder
+
